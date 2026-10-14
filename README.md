@@ -10,8 +10,8 @@ The experiments in the paper are conducted on the **Sewer-ML**、**XR-Sewer** an
 
 **The following crucial resource files are too large to host directly on GitHub. Please download them from our Baidu NetDisk (百度网盘) repository:**
 
-- **Link:** https://pan.baidu.com/s/1FDBrb40Q1hKOqwLg_eVHzw
-- **Access Code/Extraction Code (提取码):** st6m
+- **Link:** https://pan.baidu.com/s/1Te8lmpoMKxQCaLZJC1JLKg ** 
+- **Access Code/Extraction Code (提取码):** n2wm
 
 #### **Files to Download:**
 ﻿
@@ -25,7 +25,7 @@ After downloading, please place them in the corresponding directories in your lo
     - Flash SewerNet.ckpt : The final Sewer_ML pre-trained weights of our SewerMan model for inference.
     - ViT-B-32.pt : The pre-trained weights of our CLIP model.
     - - Convnet.ckpt : The pre-trained weights of our Convnet-base model.
-      - 
+    
 ## 🛠️ Installation & Setup
 1.  **Clone the repository:**
     ```bash
@@ -41,3 +41,12 @@ After downloading, please place them in the corresponding directories in your lo
     pip install pytorch =1.8.2
     ...
     ```
+
+📜 Citation
+If you find our work useful in your research, please consider citing:
+@article{zhong2024sewerman,
+  title={Flash SewerNet: A Lightweight Expert Network with Gaussian-Multimodal Fusion for Sewer Defect Recognition},
+  author={Zhong, Xuke and Zhong, Yuzhong and Xiao, Quan and Qiang, Hu and You, Xingxing and Dian, Songyi},
+  journal={Neural Networks},
+  year={2026}
+}
