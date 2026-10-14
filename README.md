@@ -30,7 +30,7 @@ After downloading, please place them in the corresponding directories in your lo
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/zkkzxk/Flash-SewerNet.git
-    cd SewerMan
+    cd Flash-SewerNet
     ```
 
 2.  **Create a conda environment and install dependencies:**
@@ -44,7 +44,7 @@ After downloading, please place them in the corresponding directories in your lo
 
 📜 Citation
 If you find our work useful in your research, please consider citing:
-@article{zhong2024sewerman,
+@article{zhong2026,
   title={Flash SewerNet: A Lightweight Expert Network with Gaussian-Multimodal Fusion for Sewer Defect Recognition},
   author={Zhong, Xuke and Zhong, Yuzhong and Xiao, Quan and Qiang, Hu and You, Xingxing and Dian, Songyi},
   journal={Neural Networks},
